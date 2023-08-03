@@ -34,3 +34,11 @@ Then Press Correct Answer Button !
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture6.png)
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture7.png)
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture8.png)
+
+--------------------------------------------------------------
+# Game 3
+---------
+Train Students to solve fractions problems in a fast way 
+
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture9.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture10.png)

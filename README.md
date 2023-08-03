@@ -17,4 +17,6 @@ you must write the correct Answer in the two input fields .
 If the Answer is correct you will listen an Enthusiast Audio and the score will be increased .
 
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture1.png)
-!(https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture2.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture2.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture3.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture4.png)

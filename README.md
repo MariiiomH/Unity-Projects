@@ -43,3 +43,14 @@ Train Students to solve fractions problems in a fast way
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture9.png)
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture11.png)
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture10.png)
+
+---------------------------------------------------------------
+# Game 4
+---------
+Comparing Fractions ( Greater than , Smaller than or Equal)
+with helpful calculator in the left and another one in the right side ,
+which multiply the number in both denominator and numerator  
+
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%204/Picture13.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%204/Picture14.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%204/Screenshot%20(1).png)

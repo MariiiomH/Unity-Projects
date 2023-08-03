@@ -41,4 +41,5 @@ Then Press Correct Answer Button !
 Train Students to solve fractions problems in a fast way 
 
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture9.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture11.png)
 ![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%203/Picture10.png)

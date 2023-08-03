@@ -29,7 +29,8 @@ This Game with Time Counter And Random Numbers ..
 you Need to calculate this Equation (Num1 * Num2 + Num3 + Num4 )from buttom to top as fast as you can ,
 Then Press Correct Answer Button !
 
-![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture5.png)
-![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture6.png)
-![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture7.png)
-![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%201/Picture8.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture5.png)
+
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture6.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture7.png)
+![img](https://github.com/MariiiomH/Unity-Projects/blob/master/Game%202/Picture8.png)
